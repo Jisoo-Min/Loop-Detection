@@ -50,7 +50,7 @@ Our NN code is [here](https://github.com/jiisoo/NLP-FindLoop/blob/master/loop-de
   1. Data processing<br/>
    We have Codingbat dataset we made. It has sentences and vector values and label.               For making vector values we use Google Sentence Encoder. Google Sentence Encoder change vector values from sentences. 
    
-     Sentence = Given an array of ints length 3, return the sum of all the elements.
+     Sentence = Given an array of ints length 3, return the sum of all the elements.<br/><br/>
      Vector values = [[ 0.00020983 -0.01434974 -0.0620535  ...  0.01654282 -0.06327306
      -0.02807822]
      [-0.01388634 -0.00700146 -0.02114584 ... -0.01939107 -0.06096156
